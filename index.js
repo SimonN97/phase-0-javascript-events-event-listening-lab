@@ -10,3 +10,4 @@ function addingEventListener() {
   button.addEventListener('click', clickAlert);
   
   }
+  addingEventListener();
